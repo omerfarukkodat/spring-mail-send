@@ -1,6 +1,6 @@
 # Sending Email on Spring-boot
 
-**Description:** This is a simple send e-mail built using Spring Boot framework. It provides Google SMTP mail sender with using JavaMailSender interface and SimpleMailMessage class.
+**Description:** This is a simple send email built using Spring Boot framework. It provides Google SMTP mail sender with using JavaMailSender interface and SimpleMailMessage class.
 - **Spring Boot Starter Mail**
 - **Google SMTP**
 
